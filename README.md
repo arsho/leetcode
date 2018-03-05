@@ -5,4 +5,4 @@ Leetcode Solutions
 
 The following problem's solutions are added:
 
-- [solutions/278_First_Bad_Version](278_First_Bad_Version)
+- [278. First Bad Version](solutions/278. First Bad Version)
