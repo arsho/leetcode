@@ -1,9 +1,8 @@
 Leetcode Solutions
 ==================
 
-## Problem List
-
-The following problem's solutions are added:
-
-- [278. First Bad Version](solutions/278_First_Bad_Version) : [Problem description](https://leetcode.com/problems/first-bad-version/)
-- [441. Arranging Coins](solutions/441_Arranging_Coins) : [Problem description](https://leetcode.com/problems/arranging-coins/description/)
+The following table contains the problems with solutions:
+Problem  | Solution
+------------- | -------------
+[278. First Bad Version](https://leetcode.com/problems/first-bad-version/)  | [Solution](solutions/278_First_Bad_Version)
+[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)  | [Solution](solutions/441_Arranging_Coins)
