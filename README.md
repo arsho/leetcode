@@ -11,5 +11,5 @@ The following table contains the problems with solutions:
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | Binary Search | [Solution](solutions/367_Valid_Perfect_Square) |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/746_Min_Cost_Climbing_Stairs) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/70_Climbing_Stairs) |
-| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Dynamic Programming | [Solution](solutions/121__Best_Time_to_Buy_and_Sell_Stock) |
-| [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | Adhoc | [Solution](solutions/492__Construct_the_Rectangle) |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Dynamic Programming | [Solution](solutions/121_Best_Time_to_Buy_and_Sell_Stock) |
+| [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | Adhoc | [Solution](solutions/492_Construct_the_Rectangle) |

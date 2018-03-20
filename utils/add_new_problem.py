@@ -3,6 +3,7 @@ import os
 def get_filename_title(title):
     title = title.replace(" ","_")
     title = title.replace(".","_")
+    title = title.replace("__","_")
     return title
 
 def update_readme(title, filename_title, url, category):
