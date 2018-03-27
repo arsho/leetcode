@@ -16,3 +16,4 @@ The following table contains the problems with solutions:
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | Greedy | [Solution](solutions/455_Assign_Cookies) |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack | [Solution](solutions/155_Min_Stack) |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | SQL | [Solution](solutions/182_Duplicate_Emails) |
+| [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | Adhoc | [Solution](solutions/804_Unique_Morse_Code_Words) |
