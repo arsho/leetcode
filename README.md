@@ -17,3 +17,4 @@ The following table contains the problems with solutions:
 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack | [Solution](solutions/155_Min_Stack) |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | SQL | [Solution](solutions/182_Duplicate_Emails) |
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | Adhoc | [Solution](solutions/804_Unique_Morse_Code_Words) |
+| [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | Adhoc | [Solution](solutions/806_Number_of_Lines_To_Write_String) |
