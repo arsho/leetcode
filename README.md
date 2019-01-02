@@ -19,3 +19,5 @@ The following table contains the problems with solutions:
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | Adhoc | [Solution](solutions/804_Unique_Morse_Code_Words) |
 | [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | Adhoc | [Solution](solutions/806_Number_of_Lines_To_Write_String) |
 | [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | Hash Table | [Solution](solutions/811_Subdomain_Visit_Count) |
+| [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | String | [Solution](solutions/709_To_Lower_Case) |
+| [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | String | [Solution](solutions/929_Unique_Email_Addresses) |
