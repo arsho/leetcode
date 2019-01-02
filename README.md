@@ -24,3 +24,4 @@ The following table contains the problems with solutions:
 | [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Hash Table | [Solution](solutions/884_Uncommon_Words_from_Two_Sentences) |
 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Hash Table | [Solution](solutions/961_N-Repeated_Element_in_Size_2N_Array) |
 | [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | Hash Table | [Solution](solutions/748_Shortest_Completing_Word) |
+| [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Array | [Solution](solutions/905_Sort_Array_By_Parity) |
