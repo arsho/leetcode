@@ -13,11 +13,12 @@ The following table contains the problems with solutions:
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/70_Climbing_Stairs) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Dynamic Programming | [Solution](solutions/121_Best_Time_to_Buy_and_Sell_Stock) |
 | [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | Adhoc | [Solution](solutions/492_Construct_the_Rectangle) |
+| [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | Adhoc | [Solution](solutions/806_Number_of_Lines_To_Write_String) |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | Greedy | [Solution](solutions/455_Assign_Cookies) |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack | [Solution](solutions/155_Min_Stack) |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | SQL | [Solution](solutions/182_Duplicate_Emails) |
-| [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | Adhoc | [Solution](solutions/804_Unique_Morse_Code_Words) |
-| [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | Adhoc | [Solution](solutions/806_Number_of_Lines_To_Write_String) |
-| [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | Hash Table | [Solution](solutions/811_Subdomain_Visit_Count) |
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | String | [Solution](solutions/709_To_Lower_Case) |
+| [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | String | [Solution](solutions/804_Unique_Morse_Code_Words) |
 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | String | [Solution](solutions/929_Unique_Email_Addresses) |
+| [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | Hash Table | [Solution](solutions/811_Subdomain_Visit_Count) |
+| [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Hash Table | [Solution](solutions/884_Uncommon_Words_from_Two_Sentences) |
