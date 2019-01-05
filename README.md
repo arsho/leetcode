@@ -8,6 +8,7 @@ The following table contains the problems with solutions:
 | [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | Adhoc | [Solution](solutions/492_Construct_the_Rectangle) |
 | [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | Adhoc | [Solution](solutions/806_Number_of_Lines_To_Write_String) |
 | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Array | [Solution](solutions/832_Flipping_an_Image) |
+| [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Array | [Solution](solutions/896_Monotonic_Array) |
 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Array | [Solution](solutions/905_Sort_Array_By_Parity) |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | [Solution](solutions/278_First_Bad_Version) |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | Binary Search | [Solution](solutions/367_Valid_Perfect_Square) |
