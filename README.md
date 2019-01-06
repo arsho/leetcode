@@ -23,6 +23,7 @@ The following table contains the problems with solutions:
 | [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Hash Table | [Solution](solutions/884_Uncommon_Words_from_Two_Sentences) |
 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Hash Table | [Solution](solutions/961_N-Repeated_Element_in_Size_2N_Array) |
 | [942. DI String Match](https://leetcode.com/problems/di-string-match/) | Math | [Solution](solutions/942_DI_String_Match) |
+| [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/) | Math | [Solution](solutions/970_Powerful_Integers) |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack | [Solution](solutions/155_Min_Stack) |
 | [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | String | [Solution](solutions/551_Student_Attendance_Record_I) |
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | String | [Solution](solutions/709_To_Lower_Case) |
