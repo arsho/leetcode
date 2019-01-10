@@ -1,0 +1,2 @@
+USERNAME = 'arsho'
+EXTENSION = '.py'

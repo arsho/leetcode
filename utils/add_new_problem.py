@@ -1,5 +1,6 @@
 import datetime
 import os
+from utils.configurations import USERNAME, EXTENSION
 
 
 def get_filename_title(title):
@@ -9,12 +10,48 @@ def get_filename_title(title):
     return title
 
 
+def insert_new_problem(existing_problems, new_problem):
+    data = []
+    for problem in existing_problems:
+        problem = problem[1:-1].strip()
+        fields = [field.strip() for field in problem.split("|")]
+        data.append(fields)
+    data.append(new_problem)
+    data = sorted(data, key=lambda x: (x[1], x[0]))
+    return data
+
+
+def get_sorted_problem_list(problems, problem_information, category,
+                            solution_information):
+    new_problem = [problem_information, category, solution_information]
+    sorted_problems = insert_new_problem(problems, new_problem)
+    lines = []
+    for problem in sorted_problems:
+        line = "| {} | {} | {} |".format(problem[0], problem[1], problem[2])
+        lines.append(line)
+    return lines
+
+
 def update_readme(title, filename_title, url, category):
-    with open("../README.md", "a") as readme:
-        readme.write(
-            "| [{}]({}) | {} | [Solution](solutions/{}) |\n".format(title, url,
-                                                                    category,
-                                                                    filename_title))
+    separator = '| --- | --- | --- |'
+    problem_information = "[{}]({})".format(title, url)
+    solution_information = "[Solution](solutions/{})".format(filename_title)
+    with open("../README.md", "r+") as readme:
+        lines = [line.strip() for line in readme.readlines()]
+        separator_index = lines.index(separator) + 1
+        header = lines[:separator_index]
+        problems = lines[separator_index:]
+        problems = [line.strip() for line in problems if line.strip() != '']
+        sorted_problems = get_sorted_problem_list(problems, problem_information,
+                                                  category,
+                                                  solution_information)
+        # clear the file contents
+        readme.seek(0)
+        readme.truncate()
+        for line in header:
+            readme.write(line + "\n")
+        for line in sorted_problems:
+            readme.write(line + "\n")
 
 
 def make_problem_directory(repo_path, filename_title):
@@ -45,20 +82,26 @@ def write_file_header(title, category, url, username):
     return header_str
 
 
-title = input("Add new problem title: ").strip()
-filename_title = get_filename_title(title)
-url = input("Add new problem url: ").strip()
-category = input("Problem Type: ").strip()
-username = input("Username (keep blank for arsho): ").strip()
-extension = input("Extension (keep blank for .py): ").strip()
-if username == '':
-    username = 'arsho'
-if extension == '':
-    extension = '.py'
-current_path = os.path.dirname(os.path.realpath(__file__))
-repo_path = os.path.abspath(os.path.join(current_path, os.pardir))
-update_readme(title, filename_title, url, category)
-directory = make_problem_directory(repo_path, filename_title)
-filepath = make_solution_file(title, category, url, username, directory,
-                              extension)
-print("Done. Open {}".format(filepath))
+def get_user_inputs():
+    title = input("Add new problem title: ").strip()
+    filename_title = get_filename_title(title)
+    url = input("Add new problem url: ").strip()
+    category = input("Problem Type: ").strip()
+    username = input("Username (keep blank for " + USERNAME + "): ").strip()
+    extension = input("Extension (keep blank for " + EXTENSION + "): ").strip()
+    if username == '':
+        username = USERNAME
+    if extension == '':
+        extension = EXTENSION
+    return title, filename_title, url, category, username, extension
+
+
+if __name__ == '__main__':
+    title, filename_title, url, category, username, extension = get_user_inputs()
+    current_path = os.path.dirname(os.path.realpath(__file__))
+    repo_path = os.path.abspath(os.path.join(current_path, os.pardir))
+    update_readme(title, filename_title, url, category)
+    directory = make_problem_directory(repo_path, filename_title)
+    filepath = make_solution_file(title, category, url, username, directory,
+                                  extension)
+    print("Done. Open {}".format(filepath))
