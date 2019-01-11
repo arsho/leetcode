@@ -34,3 +34,5 @@ The following table contains the problems with solutions:
 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | String | [Solution](solutions/929_Unique_Email_Addresses) |
 | [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Tree | [Solution](solutions/965_Univalued_Binary_Tree) |
 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Hash Set | [Solution](solutions/771_Jewels_and_stones) |
+| [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Tree | [Solution](solutions/637_ Average_of_Levels_in_Binary_Tree) |
+
