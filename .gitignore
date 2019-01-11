@@ -12,3 +12,5 @@ venv/*
 .coverage
 cover
 xunittest.xml
+
+__pycache__
