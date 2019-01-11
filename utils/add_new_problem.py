@@ -65,8 +65,9 @@ def make_solution_file(title, category, url, username, directory_path,
                        extension='.py'):
     filename = "solution_" + username + extension
     file_path = os.path.join(directory_path, filename)
-    with open(file_path, "w") as f:
-        f.writelines(write_file_header(title, category, url, username))
+    if not os.path.exists(file_path):
+        with open(file_path, "w") as f:
+            f.writelines(write_file_header(title, category, url, username))
     return file_path
 
 
@@ -81,12 +82,19 @@ def write_file_header(title, category, url, username):
     header_str += '\'\'\'\n'
     return header_str
 
+def get_mandatory_field(user_message):
+    while True:
+        user_input = input(user_message).strip()
+        if not user_input:
+            print("Invalid input. Please try again.")
+        else:
+            return user_input
 
 def get_user_inputs():
-    title = input("Add new problem title: ").strip()
+    title = get_mandatory_field("Add new problem title: ")
     filename_title = get_filename_title(title)
-    url = input("Add new problem url: ").strip()
-    category = input("Problem Type: ").strip()
+    url = get_mandatory_field("Add new problem url: ")
+    category = get_mandatory_field("Problem Type: ")
     username = input("Username (keep blank for " + USERNAME + "): ").strip()
     extension = input("Extension (keep blank for " + EXTENSION + "): ").strip()
     if username == '':
