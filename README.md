@@ -33,4 +33,4 @@ The following table contains the problems with solutions:
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | String | [Solution](solutions/804_Unique_Morse_Code_Words) |
 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | String | [Solution](solutions/929_Unique_Email_Addresses) |
 | [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Tree | [Solution](solutions/965_Univalued_Binary_Tree) |
-| [965. Jewels and Stones(https://leetcode.com/problems/jewels-and-stones/) | Tree | [Solution](solutions/771_Jewels_and_stones) |
+| [965. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Hash Set | [Solution](solutions/771_Jewels_and_stones) |
