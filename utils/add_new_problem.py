@@ -1,6 +1,6 @@
 import datetime
 import os
-from utils.configurations import USERNAME, EXTENSION
+from constants import USERNAME, EXTENSION
 
 
 def get_filename_title(title):
