@@ -7,6 +7,7 @@ The following table contains the problems with solutions:
 | --- | --- | --- |
 | [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | Adhoc | [Solution](solutions/492_Construct_the_Rectangle) |
 | [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | Adhoc | [Solution](solutions/806_Number_of_Lines_To_Write_String) |
+| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Array | [Solution](solutions/509_Fibonacci_Number) |
 | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Array | [Solution](solutions/832_Flipping_an_Image) |
 | [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Array | [Solution](solutions/896_Monotonic_Array) |
 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Array | [Solution](solutions/905_Sort_Array_By_Parity) |
@@ -20,8 +21,8 @@ The following table contains the problems with solutions:
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/746_Min_Cost_Climbing_Stairs) |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | Greedy | [Solution](solutions/455_Assign_Cookies) |
 | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Greedy | [Solution](solutions/944_Delete_Columns_to_Make_Sorted) |
-| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Hash Set | [Solution](solutions/771_Jewels_and_stones) |
 | [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | Hash Table | [Solution](solutions/748_Shortest_Completing_Word) |
+| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Hash Table | [Solution](solutions/771_Jewels_and_stones) |
 | [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | Hash Table | [Solution](solutions/811_Subdomain_Visit_Count) |
 | [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Hash Table | [Solution](solutions/884_Uncommon_Words_from_Two_Sentences) |
 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Hash Table | [Solution](solutions/961_N-Repeated_Element_in_Size_2N_Array) |
