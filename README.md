@@ -39,6 +39,7 @@ The following table contains the problems with solutions:
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | String | [Solution](solutions/804_Unique_Morse_Code_Words) |
 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | String | [Solution](solutions/929_Unique_Email_Addresses) |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Tree | [Solution](solutions/102_Binary_Tree_Level_Order_Traversal) |
+| [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Tree | [Solution](solutions/590_N-ary_Tree_Postorder_Traversal) |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Tree | [Solution](solutions/617_Merge_Two_Binary_Trees) |
 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Tree | [Solution](solutions/637_Average_of_Levels_in_Binary_Tree) |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Tree | [Solution](solutions/700_Search_in_a_Binary_Search_Tree) |
