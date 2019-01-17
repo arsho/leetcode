@@ -38,6 +38,7 @@ The following table contains the problems with solutions:
 | [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | String | [Solution](solutions/551_Student_Attendance_Record_I) |
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | String | [Solution](solutions/709_To_Lower_Case) |
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | String | [Solution](solutions/804_Unique_Morse_Code_Words) |
+| [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | String | [Solution](solutions/821_Shortest_Distance_to_a_Character) |
 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | String | [Solution](solutions/929_Unique_Email_Addresses) |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Tree | [Solution](solutions/102_Binary_Tree_Level_Order_Traversal) |
 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Tree | [Solution](solutions/590_N-ary_Tree_Postorder_Traversal) |
