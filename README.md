@@ -34,6 +34,7 @@ The following table contains the problems with solutions:
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue | [Solution](solutions/933_Number_of_Recent_Calls) |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | SQL | [Solution](solutions/182_Duplicate_Emails) |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Sort | [Solution](solutions/973_K_Closest_Points_to_Origin) |
+| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Sort | [Solution](solutions/977_Squares_of_a_Sorted_Array) |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack | [Solution](solutions/155_Min_Stack) |
 | [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | String | [Solution](solutions/551_Student_Attendance_Record_I) |
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | String | [Solution](solutions/709_To_Lower_Case) |
