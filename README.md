@@ -32,6 +32,7 @@ The following table contains the problems with solutions:
 | [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | Hash Table | [Solution](solutions/811_Subdomain_Visit_Count) |
 | [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Hash Table | [Solution](solutions/884_Uncommon_Words_from_Two_Sentences) |
 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Hash Table | [Solution](solutions/961_N-Repeated_Element_in_Size_2N_Array) |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List | [Solution](solutions/21_Merge_Two_Sorted_Lists) |
 | [507. Perfect Number](https://leetcode.com/problems/perfect-number/) | Math | [Solution](solutions/507_Perfect_Number) |
 | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | Math | [Solution](solutions/728_Self_Dividing_Numbers) |
 | [942. DI String Match](https://leetcode.com/problems/di-string-match/) | Math | [Solution](solutions/942_DI_String_Match) |
