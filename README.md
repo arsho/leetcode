@@ -21,6 +21,7 @@ The following table contains the problems with solutions:
 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | Binary Search | [Solution](solutions/374_Guess_Number_Higher_or_Lower) |
 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Binary Search | [Solution](solutions/441_Arranging_Coins) |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Binary Search | [Solution](solutions/852_Peak_Index_in_a_Mountain_Array) |
+| [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Design | [Solution](solutions/232_Implement_Queue_using_Stacks) |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Divide and Conquer | [Solution](solutions/215_Kth_Largest_Element_in_an_Array) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/70_Climbing_Stairs) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Dynamic Programming | [Solution](solutions/121_Best_Time_to_Buy_and_Sell_Stock) |
