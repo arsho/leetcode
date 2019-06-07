@@ -7,32 +7,33 @@ The following table contains the problems with solutions:
 | --- | --- | --- |
 | [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | Adhoc | [Solution](solutions/492_Construct_the_Rectangle) |
 | [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | Adhoc | [Solution](solutions/806_Number_of_Lines_To_Write_String) |
-| [1051. Height Checker](https://leetcode.com/problems/height-checker/) | Array | [Solution](solutions/1051_Height_Checker) |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Array | [Solution](solutions/509_Fibonacci_Number) |
 | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Array | [Solution](solutions/832_Flipping_an_Image) |
 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Array | [Solution](solutions/867_Transpose_Matrix) |
 | [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Array | [Solution](solutions/896_Monotonic_Array) |
 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Array | [Solution](solutions/905_Sort_Array_By_Parity) |
+| [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Array | [Solution](solutions/941_Valid_Mountain_Array) |
 | [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | Array | [Solution](solutions/985_Sum_of_Even_Numbers_After_Queries) |
 | [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | Array | [Solution](solutions/999_Available_Captures_for_Rook) |
+| [1051. Height Checker](https://leetcode.com/problems/height-checker/) | Array | [Solution](solutions/1051_Height_Checker) |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | [Solution](solutions/278_First_Bad_Version) |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | Binary Search | [Solution](solutions/367_Valid_Perfect_Square) |
 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | Binary Search | [Solution](solutions/374_Guess_Number_Higher_or_Lower) |
 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Binary Search | [Solution](solutions/441_Arranging_Coins) |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Binary Search | [Solution](solutions/852_Peak_Index_in_a_Mountain_Array) |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Divide and Conquer | [Solution](solutions/215_Kth_Largest_Element_in_an_Array) |
-| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Dynamic Programming | [Solution](solutions/121_Best_Time_to_Buy_and_Sell_Stock) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/70_Climbing_Stairs) |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Dynamic Programming | [Solution](solutions/121_Best_Time_to_Buy_and_Sell_Stock) |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/746_Min_Cost_Climbing_Stairs) |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | Greedy | [Solution](solutions/455_Assign_Cookies) |
 | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Greedy | [Solution](solutions/944_Delete_Columns_to_Make_Sorted) |
-| [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/) | Hash Table | [Solution](solutions/1002_Find_Common_Characters) |
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Hash Table | [Solution](solutions/409_Longest_Palindrome) |
 | [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | Hash Table | [Solution](solutions/748_Shortest_Completing_Word) |
 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Hash Table | [Solution](solutions/771_Jewels_and_stones) |
 | [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | Hash Table | [Solution](solutions/811_Subdomain_Visit_Count) |
 | [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Hash Table | [Solution](solutions/884_Uncommon_Words_from_Two_Sentences) |
 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Hash Table | [Solution](solutions/961_N-Repeated_Element_in_Size_2N_Array) |
+| [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/) | Hash Table | [Solution](solutions/1002_Find_Common_Characters) |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List | [Solution](solutions/21_Merge_Two_Sorted_Lists) |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List | [Solution](solutions/876_Middle_of_the_Linked_List) |
 | [507. Perfect Number](https://leetcode.com/problems/perfect-number/) | Math | [Solution](solutions/507_Perfect_Number) |
