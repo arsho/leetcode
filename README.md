@@ -12,6 +12,7 @@ The following table contains the problems with solutions:
 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Array | [Solution](solutions/867_Transpose_Matrix) |
 | [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Array | [Solution](solutions/896_Monotonic_Array) |
 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Array | [Solution](solutions/905_Sort_Array_By_Parity) |
+| [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | Array | [Solution](solutions/922_Sort_Array_By_Parity_II) |
 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Array | [Solution](solutions/941_Valid_Mountain_Array) |
 | [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | Array | [Solution](solutions/985_Sum_of_Even_Numbers_After_Queries) |
 | [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | Array | [Solution](solutions/999_Available_Captures_for_Rook) |
