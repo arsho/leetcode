@@ -54,6 +54,7 @@ The following table contains the problems with solutions:
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | String | [Solution](solutions/804_Unique_Morse_Code_Words) |
 | [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | String | [Solution](solutions/821_Shortest_Distance_to_a_Character) |
 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | String | [Solution](solutions/929_Unique_Email_Addresses) |
+| [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | String | [Solution](solutions/1108_Defanging_an_IP_Address) |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Tree | [Solution](solutions/102_Binary_Tree_Level_Order_Traversal) |
 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Tree | [Solution](solutions/590_N-ary_Tree_Postorder_Traversal) |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Tree | [Solution](solutions/617_Merge_Two_Binary_Trees) |
