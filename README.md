@@ -17,6 +17,7 @@ The following table contains the problems with solutions:
 | [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | Array | [Solution](solutions/985_Sum_of_Even_Numbers_After_Queries) |
 | [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | Array | [Solution](solutions/999_Available_Captures_for_Rook) |
 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | Array | [Solution](solutions/1051_Height_Checker) |
+| [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Array | [Solution](solutions/1200_Minimum_Absolute_Difference) |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | [Solution](solutions/278_First_Bad_Version) |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | Binary Search | [Solution](solutions/367_Valid_Perfect_Square) |
 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | Binary Search | [Solution](solutions/374_Guess_Number_Higher_or_Lower) |
