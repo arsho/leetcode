@@ -15,12 +15,16 @@ class Solution:
         return d
 
     def maxNumberOfBalloons(self, text: str) -> int:
-        number_of_baloons = 0
-        target = "baloon"
+        target = "balloon"
         d = self.word_to_char_dictionary(target)
         e = self.word_to_char_dictionary(text)
-
-        return number_of_baloons
+        ar = []
+        for c in d:
+            if c not in e:
+                return 0
+            m = e[c] // d[c]
+            ar.append(m)
+        return sorted(ar)[0]
 
 
 if __name__ == "__main__":
@@ -38,4 +42,9 @@ if __name__ == "__main__":
     input_str = "leetcode"
     result = solution.maxNumberOfBalloons(input_str)
     expected_result = 0
+    assert result == expected_result, input_str
+
+    input_str = "mbetypbpefxvviadqaodrbjeoacfomepmzymiudltgnvnpbowwmjgpzzhtiismearuwocsgbiimiqqzaozgeizikrlxmupfzjzmlfttqqbpfblqfkecsdfbsceqjhubfxksivrfwvukapxmuciybfhzlmpeamdxziptxregymqtmgcsujmugissgnlbhxbcxxeoumcqyulvahuianbaaxgzrtmshjguqdaxvxndzoqvwmcjfhpevavnrciqbymnlylbrfkkiceienoarfrzzxtuaqapaeqeqolozadmtgjyhfqzpuaskjuawxqkdqyjqcmbxtvshzrquvegcuyuckznspmrxvqdassidcmrajedsnuuumfwqzvasljlyvfefktiqgvzvdzojtjegsyhbepdkuwvgrfscezvswywmdavpxlekbrlkfnbyvlobazmvgulxrfdranuhomkrlpbfeagfxxxuhjuqhbkhznixquxrxngwimdxdhqbdaouitsvcdmbwxbbaomkgxsqwnexbjjyhtxvkjfqkrrxjghvzqsattubphryqxxdyjkihfnzvjhohnhdlfwoqiwtmwzfgcyhyqtcketvgnbchcxvnhcsoosirfqgdgcsitegzlxdfijzmxnvhrulmgvoqfpzesootscnxenokmmozmoxpaverydbsnimwacjqhrtxkqtvghjyushoctxphxzztukgmnoeycqaeukymvwxcsyvvctflqjhtcvjtxncuvhkptkjnzaetwbzkwnseovewuhpkaxiphdicgacszzdturzgjkzwgkmzzavykancvvzaafgzjhcyicorrblmhsnnkhfkujttbkuuedhwguuaapojmnjdfytdhrepjwcddzsoeutlbbljlikghxefgbqenwamanikmynjcupqpdjnhldaixwygcvsgdkzszmsptqqnroflgozblygtiyaxudwmooiviqcosjfksnevultrf"
+    result = solution.maxNumberOfBalloons(input_str)
+    expected_result = 14
     assert result == expected_result, input_str
