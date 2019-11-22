@@ -74,13 +74,13 @@ def make_solution_file(title, category, url, username, directory_path,
 
 def write_file_header(title, category, url, username):
     created_date = datetime.datetime.today().strftime("%d %B %Y")
-    header_str = '\'\'\'\n'
+    header_str = '"""\n'
     header_str += 'Title     : ' + title + '\n'
     header_str += 'Category  : ' + category + '\n'
     header_str += 'URL       : ' + url + '\n'
     header_str += 'Author    : ' + username + '\n'
     header_str += 'Created   : ' + created_date + '\n'
-    header_str += '\'\'\'\n'
+    header_str += '"""\n'
     return header_str
 
 def get_mandatory_field(user_message):

@@ -18,10 +18,12 @@ The following table contains the problems with solutions:
 | [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | Array | [Solution](solutions/999_Available_Captures_for_Rook) |
 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | Array | [Solution](solutions/1051_Height_Checker) |
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Array | [Solution](solutions/1200_Minimum_Absolute_Difference) |
+| [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | Array | [Solution](solutions/1252_Cells_with_Odd_Values_in_a_Matrix) |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | [Solution](solutions/278_First_Bad_Version) |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | Binary Search | [Solution](solutions/367_Valid_Perfect_Square) |
 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | Binary Search | [Solution](solutions/374_Guess_Number_Higher_or_Lower) |
 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Binary Search | [Solution](solutions/441_Arranging_Coins) |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Solution](solutions/704_Binary_Search) |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Binary Search | [Solution](solutions/852_Peak_Index_in_a_Mountain_Array) |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Design | [Solution](solutions/225_Implement_Stack_using_Queues) |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Design | [Solution](solutions/232_Implement_Queue_using_Stacks) |
@@ -48,6 +50,7 @@ The following table contains the problems with solutions:
 | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | Math | [Solution](solutions/728_Self_Dividing_Numbers) |
 | [942. DI String Match](https://leetcode.com/problems/di-string-match/) | Math | [Solution](solutions/942_DI_String_Match) |
 | [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/) | Math | [Solution](solutions/970_Powerful_Integers) |
+| [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Math | [Solution](solutions/1232_Check_If_It_Is_a_Straight_Line) |
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue | [Solution](solutions/933_Number_of_Recent_Calls) |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | SQL | [Solution](solutions/182_Duplicate_Emails) |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Sort | [Solution](solutions/973_K_Closest_Points_to_Origin) |
