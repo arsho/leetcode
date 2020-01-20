@@ -53,6 +53,7 @@ The following table contains the problems with solutions:
 | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | Math | [Solution](solutions/728_Self_Dividing_Numbers) |
 | [942. DI String Match](https://leetcode.com/problems/di-string-match/) | Math | [Solution](solutions/942_DI_String_Match) |
 | [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/) | Math | [Solution](solutions/970_Powerful_Integers) |
+| [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Math | [Solution](solutions/976_Largest_Perimeter_Triangle) |
 | [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Math | [Solution](solutions/1232_Check_If_It_Is_a_Straight_Line) |
 | [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Math | [Solution](solutions/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer) |
 | [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Math | [Solution](solutions/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers) |
