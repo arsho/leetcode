@@ -51,6 +51,7 @@ The following table contains the problems with solutions:
 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Linked List | [Solution](solutions/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer) |
 | [507. Perfect Number](https://leetcode.com/problems/perfect-number/) | Math | [Solution](solutions/507_Perfect_Number) |
 | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | Math | [Solution](solutions/728_Self_Dividing_Numbers) |
+| [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Math | [Solution](solutions/812_Largest_Triangle_Area) |
 | [942. DI String Match](https://leetcode.com/problems/di-string-match/) | Math | [Solution](solutions/942_DI_String_Match) |
 | [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/) | Math | [Solution](solutions/970_Powerful_Integers) |
 | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Math | [Solution](solutions/976_Largest_Perimeter_Triangle) |
