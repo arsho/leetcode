@@ -6,6 +6,7 @@ Author    : arsho
 Created   : 21 January 2020
 """
 from itertools import combinations
+from typing import List
 
 
 class Solution:
