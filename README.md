@@ -49,6 +49,7 @@ The following table contains the problems with solutions:
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Linked List | [Solution](solutions/83_Remove_Duplicates_from_Sorted_List) |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List | [Solution](solutions/876_Middle_of_the_Linked_List) |
 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Linked List | [Solution](solutions/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer) |
+| [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | Math | [Solution](solutions/263_Ugly_Number) |
 | [507. Perfect Number](https://leetcode.com/problems/perfect-number/) | Math | [Solution](solutions/507_Perfect_Number) |
 | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | Math | [Solution](solutions/728_Self_Dividing_Numbers) |
 | [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Math | [Solution](solutions/812_Largest_Triangle_Area) |
@@ -58,6 +59,7 @@ The following table contains the problems with solutions:
 | [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Math | [Solution](solutions/1232_Check_If_It_Is_a_Straight_Line) |
 | [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Math | [Solution](solutions/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer) |
 | [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Math | [Solution](solutions/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers) |
+| [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Math | [Solution](solutions/1323_Maximum_69_Number) |
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue | [Solution](solutions/933_Number_of_Recent_Calls) |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | SQL | [Solution](solutions/182_Duplicate_Emails) |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Sort | [Solution](solutions/973_K_Closest_Points_to_Origin) |
