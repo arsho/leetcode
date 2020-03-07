@@ -46,6 +46,7 @@ The following table contains the problems with solutions:
 | [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Hash Table | [Solution](solutions/1160_Find_Words_That_Can_Be_Formed_by_Characters) |
 | [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Hash Table | [Solution](solutions/1189_Maximum_Number_of_Balloons) |
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Hash Table | [Solution](solutions/1207_Unique_Number_of_Occurrences) |
+| [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Hash Table | [Solution](solutions/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number) |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List | [Solution](solutions/21_Merge_Two_Sorted_Lists) |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Linked List | [Solution](solutions/83_Remove_Duplicates_from_Sorted_List) |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List | [Solution](solutions/876_Middle_of_the_Linked_List) |
