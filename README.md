@@ -20,8 +20,8 @@ The following table contains the problems with solutions:
 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | Array | [Solution](solutions/1051_Height_Checker) |
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Array | [Solution](solutions/1200_Minimum_Absolute_Difference) |
 | [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | Array | [Solution](solutions/1252_Cells_with_Odd_Values_in_a_Matrix) |
+| [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Array | [Solution](solutions/1295_Find_Numbers_with_Even_Number_of_Digits) |
 | [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Array | [Solution](solutions/1331_Rank_Transform_of_an_Array) |
-| [5291. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Array | [Solution](solutions/5291_Find_Numbers_with_Even_Number_of_Digits) |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | [Solution](solutions/278_First_Bad_Version) |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | Binary Search | [Solution](solutions/367_Valid_Perfect_Square) |
 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | Binary Search | [Solution](solutions/374_Guess_Number_Higher_or_Lower) |
