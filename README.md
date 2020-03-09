@@ -66,6 +66,7 @@ The following table contains the problems with solutions:
 | [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Math | [Solution](solutions/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers) |
 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Math | [Solution](solutions/1323_Maximum_69_Number) |
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue | [Solution](solutions/933_Number_of_Recent_Calls) |
+| [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | SQL | [Solution](solutions/176_Second_Highest_Salary) |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | SQL | [Solution](solutions/182_Duplicate_Emails) |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Sort | [Solution](solutions/973_K_Closest_Points_to_Origin) |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Sort | [Solution](solutions/977_Squares_of_a_Sorted_Array) |
