@@ -34,6 +34,7 @@ The following table contains the problems with solutions:
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Dynamic Programming | [Solution](solutions/121_Best_Time_to_Buy_and_Sell_Stock) |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/746_Min_Cost_Climbing_Stairs) |
 | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Graph | [Solution](solutions/785_Is_Graph_Bipartite?) |
+| [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Graph | [Solution](solutions/997_Find_the_Town_Judge) |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | Greedy | [Solution](solutions/455_Assign_Cookies) |
 | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Greedy | [Solution](solutions/944_Delete_Columns_to_Make_Sorted) |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Hash Table | [Solution](solutions/202_Happy_Number) |
