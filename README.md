@@ -7,6 +7,7 @@ The following table contains the problems with solutions:
 | --- | --- | --- |
 | [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | Adhoc | [Solution](solutions/492_Construct_the_Rectangle) |
 | [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | Adhoc | [Solution](solutions/806_Number_of_Lines_To_Write_String) |
+| [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Array | [Solution](solutions/189_Rotate_Array) |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Array | [Solution](solutions/509_Fibonacci_Number) |
 | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Array | [Solution](solutions/832_Flipping_an_Image) |
 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Array | [Solution](solutions/867_Transpose_Matrix) |
