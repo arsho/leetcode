@@ -32,6 +32,7 @@ The following table contains the problems with solutions:
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Design | [Solution](solutions/225_Implement_Stack_using_Queues) |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Design | [Solution](solutions/232_Implement_Queue_using_Stacks) |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Divide and Conquer | [Solution](solutions/215_Kth_Largest_Element_in_an_Array) |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Dynamic Programming | [Solution](solutions/53_Maximum_Subarray) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/70_Climbing_Stairs) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Dynamic Programming | [Solution](solutions/121_Best_Time_to_Buy_and_Sell_Stock) |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/746_Min_Cost_Climbing_Stairs) |
