@@ -96,3 +96,4 @@ The following table contains the problems with solutions:
 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Tree | [Solution](solutions/637_Average_of_Levels_in_Binary_Tree) |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Tree | [Solution](solutions/700_Search_in_a_Binary_Search_Tree) |
 | [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Tree | [Solution](solutions/965_Univalued_Binary_Tree) |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers | [Solution](solutions/11_Container_With_Most_Water) |
