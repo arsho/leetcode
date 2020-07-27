@@ -72,6 +72,7 @@ The following table contains the problems with solutions:
 | [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Math | [Solution](solutions/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer) |
 | [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Math | [Solution](solutions/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers) |
 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Math | [Solution](solutions/1323_Maximum_69_Number) |
+| [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Math | [Solution](solutions/1523_Count_Odd_Numbers_in_an_Interval_Range) |
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue | [Solution](solutions/933_Number_of_Recent_Calls) |
 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | SQL | [Solution](solutions/176_Second_Highest_Salary) |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | SQL | [Solution](solutions/182_Duplicate_Emails) |
