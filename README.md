@@ -45,6 +45,7 @@ The following table contains the problems with solutions:
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | Greedy | [Solution](solutions/455_Assign_Cookies) |
 | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Greedy | [Solution](solutions/944_Delete_Columns_to_Make_Sorted) |
 | [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | Greedy | [Solution](solutions/1282_Group_the_People_Given_the_Group_Size_They_Belong_To) |
+| [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | Greedy | [Solution](solutions/1518_Water_Bottles) |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Hash Table | [Solution](solutions/202_Happy_Number) |
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Hash Table | [Solution](solutions/409_Longest_Palindrome) |
 | [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | Hash Table | [Solution](solutions/748_Shortest_Completing_Word) |
