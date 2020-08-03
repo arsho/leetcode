@@ -48,6 +48,7 @@ The following table contains the problems with solutions:
 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | Greedy | [Solution](solutions/1518_Water_Bottles) |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Hash Table | [Solution](solutions/202_Happy_Number) |
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Hash Table | [Solution](solutions/409_Longest_Palindrome) |
+| [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | Hash Table | [Solution](solutions/705_Design_HashSet) |
 | [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | Hash Table | [Solution](solutions/748_Shortest_Completing_Word) |
 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Hash Table | [Solution](solutions/771_Jewels_and_stones) |
 | [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | Hash Table | [Solution](solutions/811_Subdomain_Visit_Count) |
