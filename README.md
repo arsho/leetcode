@@ -85,6 +85,7 @@ The following table contains the problems with solutions:
 | [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | Sort | [Solution](solutions/1528_Shuffle_String) |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack | [Solution](solutions/155_Min_Stack) |
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Stack | [Solution](solutions/1047_Remove_All_Adjacent_Duplicates_In_String) |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | String | [Solution](solutions/125_Valid_Palindrome) |
 | [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | String | [Solution](solutions/551_Student_Attendance_Record_I) |
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | String | [Solution](solutions/709_To_Lower_Case) |
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | String | [Solution](solutions/804_Unique_Morse_Code_Words) |
