@@ -29,6 +29,7 @@ The following table contains the problems with solutions:
 | [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | Array | [Solution](solutions/1450_Number_of_Students_Doing_Homework_at_a_Given_Time) |
 | [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | Array | [Solution](solutions/1476_Subrectangle_Queries) |
 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Array | [Solution](solutions/1534_Count_Good_Triplets) |
+| [275. H-Index II](https://leetcode.com/problems/h-index-ii/) | Binary Search | [Solution](solutions/275_H-Index_II) |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | [Solution](solutions/278_First_Bad_Version) |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | Binary Search | [Solution](solutions/367_Valid_Perfect_Square) |
 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | Binary Search | [Solution](solutions/374_Guess_Number_Higher_or_Lower) |
