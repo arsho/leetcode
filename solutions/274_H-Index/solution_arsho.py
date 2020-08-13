@@ -10,18 +10,14 @@ from typing import List
 
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
-        citations = sorted(citations)
+        citations = sorted(citations, reverse=True)
         total_papers = len(citations)
-        if total_papers == 0:
-            return 0
-        h_index = 0
-
-        for i in range(1, total_papers + 1):
+        for i in range(total_papers, -1, -1):
             eligible_papers = 0
             for j in range(total_papers):
-                if citations[j] >= i:
-                    eligible_papers = total_papers - j
+                if citations[j]<i:
                     break
+                eligible_papers += 1
             if eligible_papers >= i:
-                h_index = i
-        return h_index
+                return i
+        return 0
