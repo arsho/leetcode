@@ -5,6 +5,7 @@ URL       : https://leetcode.com/problems/count-good-triplets/
 Author    : arsho
 Created   : 04 August 2020
 """
+from typing import List
 
 
 class Solution:
@@ -15,6 +16,6 @@ class Solution:
                 for k in range(j + 1, len(arr)):
                     if abs(arr[i] - arr[j]) <= a and abs(
                             arr[k] - arr[j]) <= b and abs(
-                            arr[i] - arr[k]) <= c:
+                        arr[i] - arr[k]) <= c:
                         total_good_triplets += 1
         return total_good_triplets

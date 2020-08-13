@@ -38,6 +38,7 @@ The following table contains the problems with solutions:
 | [342. Power of Four](https://leetcode.com/problems/power-of-four/) | Bit Manipulation | [Solution](solutions/342_Power_of_Four) |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Design | [Solution](solutions/225_Implement_Stack_using_Queues) |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Design | [Solution](solutions/232_Implement_Queue_using_Stacks) |
+| [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | Design | [Solution](solutions/1286_Iterator_for_Combination) |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Divide and Conquer | [Solution](solutions/215_Kth_Largest_Element_in_an_Array) |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Dynamic Programming | [Solution](solutions/53_Maximum_Subarray) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/70_Climbing_Stairs) |
