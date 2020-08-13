@@ -30,7 +30,7 @@ class Solution:
     def hIndex(self, citations: List[int]) -> int:
         d = {}
         for citation in citations:
-            for i in range(0, citation + 1):
+            for i in range(citation + 1):
                 d[i] = d.get(i, 0) + 1
         for i in sorted(d.keys(), reverse=True):
             if d[i] >= i:
