@@ -10,6 +10,7 @@ The following table contains the problems with solutions:
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Array | [Solution](solutions/189_Rotate_Array) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Array | [Solution](solutions/283_Move_Zeroes) |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Array | [Solution](solutions/509_Fibonacci_Number) |
+| [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Array | [Solution](solutions/643_Maximum_Average_Subarray_I) |
 | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Array | [Solution](solutions/832_Flipping_an_Image) |
 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Array | [Solution](solutions/867_Transpose_Matrix) |
 | [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Array | [Solution](solutions/896_Monotonic_Array) |
