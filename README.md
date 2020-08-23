@@ -31,6 +31,7 @@ The following table contains the problems with solutions:
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Array | [Solution](solutions/1431_Kids_With_the_Greatest_Number_of_Candies) |
 | [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | Array | [Solution](solutions/1450_Number_of_Students_Doing_Homework_at_a_Given_Time) |
 | [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | Array | [Solution](solutions/1476_Subrectangle_Queries) |
+| [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Array | [Solution](solutions/1480_Running_Sum_of_1d_Array) |
 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Array | [Solution](solutions/1534_Count_Good_Triplets) |
 | [275. H-Index II](https://leetcode.com/problems/h-index-ii/) | Binary Search | [Solution](solutions/275_H-Index_II) |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | [Solution](solutions/278_First_Bad_Version) |
@@ -115,3 +116,4 @@ The following table contains the problems with solutions:
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Tree | [Solution](solutions/700_Search_in_a_Binary_Search_Tree) |
 | [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Tree | [Solution](solutions/965_Univalued_Binary_Tree) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers | [Solution](solutions/11_Container_With_Most_Water) |
+| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Two Pointers | [Solution](solutions/88_Merge_Sorted_Array) |
