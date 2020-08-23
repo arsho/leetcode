@@ -21,6 +21,7 @@ The following table contains the problems with solutions:
 | [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | Array | [Solution](solutions/985_Sum_of_Even_Numbers_After_Queries) |
 | [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | Array | [Solution](solutions/999_Available_Captures_for_Rook) |
 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | Array | [Solution](solutions/1051_Height_Checker) |
+| [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Array | [Solution](solutions/1089_Duplicate_Zeros) |
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Array | [Solution](solutions/1200_Minimum_Absolute_Difference) |
 | [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | Array | [Solution](solutions/1252_Cells_with_Odd_Values_in_a_Matrix) |
 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Array | [Solution](solutions/1295_Find_Numbers_with_Even_Number_of_Digits) |
