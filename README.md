@@ -117,5 +117,6 @@ The following table contains the problems with solutions:
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Tree | [Solution](solutions/700_Search_in_a_Binary_Search_Tree) |
 | [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Tree | [Solution](solutions/965_Univalued_Binary_Tree) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers | [Solution](solutions/11_Container_With_Most_Water) |
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Two Pointers | [Solution](solutions/26_Remove_Duplicates_from_Sorted_Array) |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Two Pointers | [Solution](solutions/27_Remove_Element) |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Two Pointers | [Solution](solutions/88_Merge_Sorted_Array) |
