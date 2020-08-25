@@ -90,6 +90,7 @@ The following table contains the problems with solutions:
 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | SQL | [Solution](solutions/176_Second_Highest_Salary) |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | SQL | [Solution](solutions/182_Duplicate_Emails) |
 | [274. H-Index](https://leetcode.com/problems/h-index/) | Sort | [Solution](solutions/274_H-Index) |
+| [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | Sort | [Solution](solutions/969_Pancake_Sorting) |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Sort | [Solution](solutions/973_K_Closest_Points_to_Origin) |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Sort | [Solution](solutions/977_Squares_of_a_Sorted_Array) |
 | [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Sort | [Solution](solutions/1122_Relative_Sort_Array) |
