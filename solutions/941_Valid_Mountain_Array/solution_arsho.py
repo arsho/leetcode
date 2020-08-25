@@ -5,31 +5,31 @@ URL       : https://leetcode.com/problems/valid-mountain-array/
 Author    : arsho
 Created   : 07 June 2019
 '''
+from typing import List
 
 
 class Solution:
-    def validMountainArray(self, A) -> bool:
-        ar_len = len(A)
-        if ar_len < 3:
+    def validMountainArray(self, A: List[int]) -> bool:
+        a_length = len(A)
+        if a_length < 3:
             return False
-        found_increasing = False
-        found_decreasing = True
-        position = 0
-        for i in range(0, ar_len - 1):
-            if A[i + 1] > A[i]:
-                found_increasing = True
-                position = i + 1
+        prev_value = None
+        decreasing_sequence_found = False
+        increasing_sequence_found = False
+        for i, val in enumerate(A):
+            if prev_value == None:
+                prev_value = val
             else:
-                break
-
-        if position == ar_len-1:
-            found_decreasing = False
-
-        for i in range(position, ar_len - 1):
-            if A[i + 1] >= A[i]:
-                found_decreasing = False
-                break
-        return found_increasing and found_decreasing
+                if val == prev_value:
+                    return False
+                elif val > prev_value:
+                    if decreasing_sequence_found:
+                        return False
+                    increasing_sequence_found = True
+                elif val < prev_value:
+                    decreasing_sequence_found = True
+                prev_value = val
+        return increasing_sequence_found and decreasing_sequence_found
 
 
 if __name__ == '__main__':
