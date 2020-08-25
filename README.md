@@ -26,6 +26,7 @@ The following table contains the problems with solutions:
 | [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | Array | [Solution](solutions/1252_Cells_with_Odd_Values_in_a_Matrix) |
 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Array | [Solution](solutions/1295_Find_Numbers_with_Even_Number_of_Digits) |
 | [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Array | [Solution](solutions/1331_Rank_Transform_of_an_Array) |
+| [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Array | [Solution](solutions/1346_Check_If_N_and_Its_Double_Exist) |
 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Array | [Solution](solutions/1351_Count_Negative_Numbers_in_a_Sorted_Matrix) |
 | [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Array | [Solution](solutions/1385_Find_the_Distance_Value_Between_Two_Arrays) |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Array | [Solution](solutions/1431_Kids_With_the_Greatest_Number_of_Candies) |
