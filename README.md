@@ -9,6 +9,7 @@ The following table contains the problems with solutions:
 | [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | Adhoc | [Solution](solutions/806_Number_of_Lines_To_Write_String) |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Array | [Solution](solutions/189_Rotate_Array) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Array | [Solution](solutions/283_Move_Zeroes) |
+| [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Array | [Solution](solutions/414_Third_Maximum_Number) |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Array | [Solution](solutions/485_Max_Consecutive_Ones) |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Array | [Solution](solutions/509_Fibonacci_Number) |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Array | [Solution](solutions/643_Maximum_Average_Subarray_I) |
