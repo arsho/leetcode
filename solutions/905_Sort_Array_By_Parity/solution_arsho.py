@@ -21,3 +21,17 @@ class Solution:
             else:
                 odd.append(i)
         return even + odd
+
+
+"""
+# Alternative solution (in place operation)
+class Solution:
+    def sortArrayByParity(self, A: List[int]) -> List[int]:
+        for i, val in enumerate(A):
+            if val % 2 == 1:
+                for j in range(i+1, len(A)):
+                    if A[j] % 2 == 0:
+                        A[i], A[j] = A[j], A[i]
+                        break
+        return A
+"""
