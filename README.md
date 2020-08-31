@@ -61,6 +61,7 @@ The following table contains the problems with solutions:
 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | Greedy | [Solution](solutions/1518_Water_Bottles) |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Hash Table | [Solution](solutions/136_Single_Number) |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Hash Table | [Solution](solutions/202_Happy_Number) |
+| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Hash Table | [Solution](solutions/350_Intersection_of_Two_Arrays_II) |
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Hash Table | [Solution](solutions/409_Longest_Palindrome) |
 | [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | Hash Table | [Solution](solutions/705_Design_HashSet) |
 | [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | Hash Table | [Solution](solutions/748_Shortest_Completing_Word) |
