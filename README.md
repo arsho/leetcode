@@ -66,6 +66,7 @@ The following table contains the problems with solutions:
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Hash Table | [Solution](solutions/136_Single_Number) |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Hash Table | [Solution](solutions/202_Happy_Number) |
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Hash Table | [Solution](solutions/350_Intersection_of_Two_Arrays_II) |
+| [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Hash Table | [Solution](solutions/387_First_Unique_Character_in_a_String) |
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Hash Table | [Solution](solutions/409_Longest_Palindrome) |
 | [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | Hash Table | [Solution](solutions/705_Design_HashSet) |
 | [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | Hash Table | [Solution](solutions/748_Shortest_Completing_Word) |
@@ -84,6 +85,7 @@ The following table contains the problems with solutions:
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Linked List | [Solution](solutions/83_Remove_Duplicates_from_Sorted_List) |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List | [Solution](solutions/876_Middle_of_the_Linked_List) |
 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Linked List | [Solution](solutions/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer) |
+| [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Math | [Solution](solutions/7_Reverse_Integer) |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | Math | [Solution](solutions/263_Ugly_Number) |
 | [507. Perfect Number](https://leetcode.com/problems/perfect-number/) | Math | [Solution](solutions/507_Perfect_Number) |
 | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | Math | [Solution](solutions/728_Self_Dividing_Numbers) |
@@ -130,3 +132,4 @@ The following table contains the problems with solutions:
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Two Pointers | [Solution](solutions/26_Remove_Duplicates_from_Sorted_Array) |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Two Pointers | [Solution](solutions/27_Remove_Element) |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Two Pointers | [Solution](solutions/88_Merge_Sorted_Array) |
+| [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers | [Solution](solutions/344_Reverse_String) |
