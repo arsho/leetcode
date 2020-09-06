@@ -65,6 +65,7 @@ The following table contains the problems with solutions:
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Hash Table | [Solution](solutions/36_Valid_Sudoku) |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Hash Table | [Solution](solutions/136_Single_Number) |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Hash Table | [Solution](solutions/202_Happy_Number) |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Hash Table | [Solution](solutions/242_Valid_Anagram) |
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Hash Table | [Solution](solutions/350_Intersection_of_Two_Arrays_II) |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Hash Table | [Solution](solutions/387_First_Unique_Character_in_a_String) |
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Hash Table | [Solution](solutions/409_Longest_Palindrome) |
