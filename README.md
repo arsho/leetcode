@@ -124,6 +124,7 @@ The following table contains the problems with solutions:
 | [1436. Destination City](https://leetcode.com/problems/destination-city/) | String | [Solution](solutions/1436_Destination_City) |
 | [1496. Path Crossing](https://leetcode.com/problems/path-crossing/) | String | [Solution](solutions/1496_Path_Crossing) |
 | [1525. Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | String | [Solution](solutions/1525_Number_of_Good_Ways_to_Split_a_String) |
+| [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | String | [Solution](solutions/1624_Largest_Substring_Between_Two_Equal_Characters) |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Tree | [Solution](solutions/102_Binary_Tree_Level_Order_Traversal) |
 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Tree | [Solution](solutions/590_N-ary_Tree_Postorder_Traversal) |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Tree | [Solution](solutions/617_Merge_Two_Binary_Trees) |
