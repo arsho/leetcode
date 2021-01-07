@@ -62,6 +62,7 @@ The following table contains the problems with solutions:
 | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Greedy | [Solution](solutions/944_Delete_Columns_to_Make_Sorted) |
 | [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | Greedy | [Solution](solutions/1282_Group_the_People_Given_the_Group_Size_They_Belong_To) |
 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | Greedy | [Solution](solutions/1518_Water_Bottles) |
+| [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | Greedy | [Solution](solutions/1710_Maximum_Units_on_a_Truck) |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Hash Table | [Solution](solutions/1_Two_Sum) |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Hash Table | [Solution](solutions/36_Valid_Sudoku) |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Hash Table | [Solution](solutions/136_Single_Number) |
