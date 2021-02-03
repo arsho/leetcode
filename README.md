@@ -40,6 +40,7 @@ The following table contains the problems with solutions:
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Array | [Solution](solutions/1480_Running_Sum_of_1d_Array) |
 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Array | [Solution](solutions/1534_Count_Good_Triplets) |
 | [1629. Slowest Key](https://leetcode.com/problems/slowest-key/) | Array | [Solution](solutions/1629_Slowest_Key) |
+| [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Array | [Solution](solutions/1732_Find_the_Highest_Altitude) |
 | [1742. Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | Array | [Solution](solutions/1742_Maximum_Number_of_Balls_in_a_Box) |
 | [275. H-Index II](https://leetcode.com/problems/h-index-ii/) | Binary Search | [Solution](solutions/275_H-Index_II) |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | [Solution](solutions/278_First_Bad_Version) |
@@ -49,6 +50,7 @@ The following table contains the problems with solutions:
 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Solution](solutions/704_Binary_Search) |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Binary Search | [Solution](solutions/852_Peak_Index_in_a_Mountain_Array) |
 | [342. Power of Four](https://leetcode.com/problems/power-of-four/) | Bit Manipulation | [Solution](solutions/342_Power_of_Four) |
+| [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | Bit Manipulation | [Solution](solutions/1720_Decode_XORed_Array) |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Design | [Solution](solutions/225_Implement_Stack_using_Queues) |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Design | [Solution](solutions/232_Implement_Queue_using_Stacks) |
 | [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | Design | [Solution](solutions/1286_Iterator_for_Combination) |
