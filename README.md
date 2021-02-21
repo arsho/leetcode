@@ -40,6 +40,7 @@ The following table contains the problems with solutions:
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Array | [Solution](solutions/1480_Running_Sum_of_1d_Array) |
 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Array | [Solution](solutions/1534_Count_Good_Triplets) |
 | [1629. Slowest Key](https://leetcode.com/problems/slowest-key/) | Array | [Solution](solutions/1629_Slowest_Key) |
+| [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Array | [Solution](solutions/1672_Richest_Customer_Wealth) |
 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Array | [Solution](solutions/1732_Find_the_Highest_Altitude) |
 | [1742. Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | Array | [Solution](solutions/1742_Maximum_Number_of_Balls_in_a_Box) |
 | [275. H-Index II](https://leetcode.com/problems/h-index-ii/) | Binary Search | [Solution](solutions/275_H-Index_II) |
@@ -132,6 +133,7 @@ The following table contains the problems with solutions:
 | [1496. Path Crossing](https://leetcode.com/problems/path-crossing/) | String | [Solution](solutions/1496_Path_Crossing) |
 | [1525. Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | String | [Solution](solutions/1525_Number_of_Good_Ways_to_Split_a_String) |
 | [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | String | [Solution](solutions/1624_Largest_Substring_Between_Two_Equal_Characters) |
+| [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | String | [Solution](solutions/1768_Merge_Strings_Alternately) |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Tree | [Solution](solutions/102_Binary_Tree_Level_Order_Traversal) |
 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Tree | [Solution](solutions/590_N-ary_Tree_Postorder_Traversal) |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Tree | [Solution](solutions/617_Merge_Two_Binary_Trees) |
