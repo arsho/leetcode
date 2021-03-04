@@ -72,6 +72,7 @@ The following table contains the problems with solutions:
 | [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Greedy | [Solution](solutions/1716_Calculate_Money_in_Leetcode_Bank) |
 | [1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | Greedy | [Solution](solutions/1725_Number_Of_Rectangles_That_Can_Form_The_Largest_Square) |
 | [1736. Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | Greedy | [Solution](solutions/1736_Latest_Time_by_Replacing_Hidden_Digits) |
+| [1774. Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/) | Greedy | [Solution](solutions/1774_Closest_Dessert_Cost) |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Hash Table | [Solution](solutions/1_Two_Sum) |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Hash Table | [Solution](solutions/36_Valid_Sudoku) |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Hash Table | [Solution](solutions/136_Single_Number) |
