@@ -36,6 +36,7 @@ The following table contains the problems with solutions:
 | [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Array | [Solution](solutions/1385_Find_the_Distance_Value_Between_Two_Arrays) |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Array | [Solution](solutions/1431_Kids_With_the_Greatest_Number_of_Candies) |
 | [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | Array | [Solution](solutions/1450_Number_of_Students_Doing_Homework_at_a_Given_Time) |
+| [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Array | [Solution](solutions/1470_Shuffle_the_Array) |
 | [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | Array | [Solution](solutions/1476_Subrectangle_Queries) |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Array | [Solution](solutions/1480_Running_Sum_of_1d_Array) |
 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Array | [Solution](solutions/1534_Count_Good_Triplets) |
