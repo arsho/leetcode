@@ -31,6 +31,7 @@ The following table contains the problems with solutions:
 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Array | [Solution](solutions/1295_Find_Numbers_with_Even_Number_of_Digits) |
 | [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Array | [Solution](solutions/1299_Replace_Elements_with_Greatest_Element_on_Right_Side) |
 | [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Array | [Solution](solutions/1331_Rank_Transform_of_an_Array) |
+| [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | Array | [Solution](solutions/1337_The_K_Weakest_Rows_in_a_Matrix) |
 | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Array | [Solution](solutions/1346_Check_If_N_and_Its_Double_Exist) |
 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Array | [Solution](solutions/1351_Count_Negative_Numbers_in_a_Sorted_Matrix) |
 | [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Array | [Solution](solutions/1385_Find_the_Distance_Value_Between_Two_Arrays) |
