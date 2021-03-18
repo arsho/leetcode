@@ -52,6 +52,7 @@ The following table contains the problems with solutions:
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | Binary Search | [Solution](solutions/367_Valid_Perfect_Square) |
 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | Binary Search | [Solution](solutions/374_Guess_Number_Higher_or_Lower) |
 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Binary Search | [Solution](solutions/441_Arranging_Coins) |
+| [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Binary Search | [Solution](solutions/540_Single_Element_in_a_Sorted_Array) |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Solution](solutions/704_Binary_Search) |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Binary Search | [Solution](solutions/852_Peak_Index_in_a_Mountain_Array) |
 | [342. Power of Four](https://leetcode.com/problems/power-of-four/) | Bit Manipulation | [Solution](solutions/342_Power_of_Four) |
