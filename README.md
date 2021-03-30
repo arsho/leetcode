@@ -133,6 +133,7 @@ The following table contains the problems with solutions:
 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack | [Solution](solutions/155_Min_Stack) |
 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Stack | [Solution](solutions/1021_Remove_Outermost_Parentheses) |
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Stack | [Solution](solutions/1047_Remove_All_Adjacent_Duplicates_In_String) |
+| [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Stack | [Solution](solutions/1441_Build_an_Array_With_Stack_Operations) |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | String | [Solution](solutions/125_Valid_Palindrome) |
 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | String | [Solution](solutions/520_Detect_Capital) |
 | [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | String | [Solution](solutions/551_Student_Attendance_Record_I) |
