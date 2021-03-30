@@ -43,7 +43,8 @@ def update_readme(title, filename_title, url, category):
         header = lines[:separator_index]
         problems = lines[separator_index:]
         problems = [line.strip() for line in problems if line.strip() != '']
-        sorted_problems = get_sorted_problem_list(problems, problem_information,
+        sorted_problems = get_sorted_problem_list(problems,
+                                                  problem_information,
                                                   category,
                                                   solution_information)
         # clear the file contents
@@ -68,20 +69,27 @@ def make_solution_file(title, category, url, username, directory_path,
     file_path = os.path.join(directory_path, filename)
     if not os.path.exists(file_path):
         with open(file_path, "w") as f:
-            f.writelines(write_file_header(title, category, url, username))
+            f.writelines(
+                write_file_header(title, category, url, username, extension))
     return file_path
 
 
-def write_file_header(title, category, url, username):
+def write_file_header(title, category, url, username, extension=".py"):
     created_date = datetime.datetime.today().strftime("%d %B %Y")
-    header_str = '"""\n'
+    multiline_comment_start = '"""\n'
+    multiline_comment_end = '"""\n'
+    if extension != ".py":
+        multiline_comment_start = '/*\n'
+        multiline_comment_end = '*/\n'
+    header_str = multiline_comment_start
     header_str += 'Title     : ' + title + '\n'
     header_str += 'Category  : ' + category + '\n'
     header_str += 'URL       : ' + url + '\n'
     header_str += 'Author    : ' + username + '\n'
     header_str += 'Created   : ' + created_date + '\n'
-    header_str += '"""\n'
+    header_str += multiline_comment_end
     return header_str
+
 
 def get_mandatory_field(user_message):
     while True:
@@ -90,6 +98,7 @@ def get_mandatory_field(user_message):
             print("Invalid input. Please try again.")
         else:
             return user_input
+
 
 def get_user_inputs():
     title = get_mandatory_field("Add new problem title: ")
