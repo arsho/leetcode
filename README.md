@@ -129,6 +129,7 @@ The following table contains the problems with solutions:
 | [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Sort | [Solution](solutions/1491_Average_Salary_Excluding_the_Minimum_and_Maximum_Salary) |
 | [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | Sort | [Solution](solutions/1528_Shuffle_String) |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack | [Solution](solutions/155_Min_Stack) |
+| [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Stack | [Solution](solutions/1021_Remove_Outermost_Parentheses) |
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Stack | [Solution](solutions/1047_Remove_All_Adjacent_Duplicates_In_String) |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | String | [Solution](solutions/125_Valid_Palindrome) |
 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | String | [Solution](solutions/520_Detect_Capital) |
