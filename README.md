@@ -63,6 +63,7 @@ The following table contains the problems with solutions:
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | Design | [Solution](solutions/707_Design_Linked_List) |
 | [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | Design | [Solution](solutions/1286_Iterator_for_Combination) |
 | [1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Design | [Solution](solutions/1381_Design_a_Stack_With_Increment_Operation) |
+| [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/) | Design | [Solution](solutions/1603_Design_Parking_System) |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Divide and Conquer | [Solution](solutions/215_Kth_Largest_Element_in_an_Array) |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Dynamic Programming | [Solution](solutions/53_Maximum_Subarray) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/70_Climbing_Stairs) |
