@@ -48,6 +48,7 @@ The following table contains the problems with solutions:
 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Array | [Solution](solutions/1752_Check_if_Array_Is_Sorted_and_Rotated) |
 | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Array | [Solution](solutions/1773_Count_Items_Matching_a_Rule) |
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Array | [Solution](solutions/1833_Maximum_Ice_Cream_Bars) |
+| [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | Backtracking | [Solution](solutions/1863_Sum_of_All_Subset_XOR_Totals) |
 | [275. H-Index II](https://leetcode.com/problems/h-index-ii/) | Binary Search | [Solution](solutions/275_H-Index_II) |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | [Solution](solutions/278_First_Bad_Version) |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | Binary Search | [Solution](solutions/367_Valid_Perfect_Square) |
