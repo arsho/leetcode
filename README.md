@@ -30,6 +30,7 @@ The following table contains the problems with solutions:
 | [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | Array | [Solution](solutions/1252_Cells_with_Odd_Values_in_a_Matrix) |
 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Array | [Solution](solutions/1295_Find_Numbers_with_Even_Number_of_Digits) |
 | [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Array | [Solution](solutions/1299_Replace_Elements_with_Greatest_Element_on_Right_Side) |
+| [1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | Array | [Solution](solutions/1313_Decompress_Run-Length_Encoded_List) |
 | [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Array | [Solution](solutions/1331_Rank_Transform_of_an_Array) |
 | [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | Array | [Solution](solutions/1337_The_K_Weakest_Rows_in_a_Matrix) |
 | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Array | [Solution](solutions/1346_Check_If_N_and_Its_Double_Exist) |
