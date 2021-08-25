@@ -85,6 +85,7 @@ The following table contains the problems with solutions:
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Hash Table | [Solution](solutions/1_Two_Sum) |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Hash Table | [Solution](solutions/36_Valid_Sudoku) |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Hash Table | [Solution](solutions/136_Single_Number) |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/) | Hash Table | [Solution](solutions/169_Majority_Element) |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Hash Table | [Solution](solutions/202_Happy_Number) |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Hash Table | [Solution](solutions/242_Valid_Anagram) |
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Hash Table | [Solution](solutions/350_Intersection_of_Two_Arrays_II) |
