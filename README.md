@@ -155,6 +155,7 @@ The following table contains the problems with solutions:
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | String | [Solution](solutions/1768_Merge_Strings_Alternately) |
 | [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | String | [Solution](solutions/1790_Check_if_One_String_Swap_Can_Make_Strings_Equal) |
 | [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | String | [Solution](solutions/1967_Number_of_Strings_That_Appear_as_Substrings_in_Word) |
+| [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | String | [Solution](solutions/2011_Final_Value_of_Variable_After_Performing_Operations) |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Tree | [Solution](solutions/102_Binary_Tree_Level_Order_Traversal) |
 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Tree | [Solution](solutions/590_N-ary_Tree_Postorder_Traversal) |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Tree | [Solution](solutions/617_Merge_Two_Binary_Trees) |
