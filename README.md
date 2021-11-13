@@ -71,7 +71,6 @@ The following table contains the problems with solutions:
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/70_Climbing_Stairs) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Dynamic Programming | [Solution](solutions/121_Best_Time_to_Buy_and_Sell_Stock) |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | Dynamic Programming | [Solution](solutions/746_Min_Cost_Climbing_Stairs) |
-| [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Solution](solutions/13_Roman_to_Integer) |
 | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Graph | [Solution](solutions/785_Is_Graph_Bipartite?) |
 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Graph | [Solution](solutions/997_Find_the_Town_Judge) |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | Greedy | [Solution](solutions/455_Assign_Cookies) |
@@ -84,6 +83,7 @@ The following table contains the problems with solutions:
 | [1736. Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | Greedy | [Solution](solutions/1736_Latest_Time_by_Replacing_Hidden_Digits) |
 | [1774. Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/) | Greedy | [Solution](solutions/1774_Closest_Dessert_Cost) |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Hash Table | [Solution](solutions/1_Two_Sum) |
+| [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Hash Table | [Solution](solutions/13_Roman_to_Integer) |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Hash Table | [Solution](solutions/36_Valid_Sudoku) |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Hash Table | [Solution](solutions/136_Single_Number) |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Hash Table | [Solution](solutions/169_Majority_Element) |
@@ -103,8 +103,8 @@ The following table contains the problems with solutions:
 | [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Hash Table | [Solution](solutions/1189_Maximum_Number_of_Balloons) |
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Hash Table | [Solution](solutions/1207_Unique_Number_of_Occurrences) |
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Hash Table | [Solution](solutions/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number) |
+| [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Hash Table | [Solution](solutions/1512_Number_of_Good_Pairs) |
 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | Hash Table | [Solution](solutions/1539_Kth_Missing_Positive_Number) |
-| [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | HashTable | [Solution](solutions/1512_Number_of_Good_Pairs) |
 | [850. Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | Line Sweep | [Solution](solutions/850_Rectangle_Area_II) |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List | [Solution](solutions/21_Merge_Two_Sorted_Lists) |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Linked List | [Solution](solutions/83_Remove_Duplicates_from_Sorted_List) |
@@ -162,6 +162,7 @@ The following table contains the problems with solutions:
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Tree | [Solution](solutions/617_Merge_Two_Binary_Trees) |
 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Tree | [Solution](solutions/637_Average_of_Levels_in_Binary_Tree) |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Tree | [Solution](solutions/700_Search_in_a_Binary_Search_Tree) |
+| [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Tree | [Solution](solutions/701_Insert_into_a_Binary_Search_Tree) |
 | [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Tree | [Solution](solutions/965_Univalued_Binary_Tree) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers | [Solution](solutions/11_Container_With_Most_Water) |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Two Pointers | [Solution](solutions/26_Remove_Duplicates_from_Sorted_Array) |

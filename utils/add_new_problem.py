@@ -10,13 +10,27 @@ def get_filename_title(title):
     return title
 
 
+def get_existing_problem_categories():
+    separator = '| --- | --- | --- |'
+    categories = []
+    with open("../README.md", "r") as readme:
+        lines = [line.strip() for line in readme.readlines()]
+        separator_index = lines.index(separator) + 1
+        problems = lines[separator_index:]
+        problems = [line.strip() for line in problems if line.strip() != '']
+        for problem in problems:
+            categories.append(problem.split("|")[2].strip())
+    return sorted(list(set(categories)))
+
+
 def insert_new_problem(existing_problems, new_problem):
     data = []
     for problem in existing_problems:
         problem = problem[1:-1].strip()
         fields = [field.strip() for field in problem.split("|")]
         data.append(fields)
-    data.append(new_problem)
+    if not data.index(new_problem):
+        data.append(new_problem)
     # Sort by category and then problem number ascending
     data = sorted(data, key=lambda x: (x[1], int(x[0].split(".")[0][1:])))
     return data
@@ -104,7 +118,23 @@ def get_user_inputs():
     title = get_mandatory_field("Add new problem title: ")
     filename_title = get_filename_title(title)
     url = get_mandatory_field("Add new problem url: ")
-    category = get_mandatory_field("Problem Type: ")
+    problem_categories = get_existing_problem_categories()
+    total_categories = len(problem_categories)
+    categories = {
+        0: "Not listed in the following categories"
+    }
+    for i, category in enumerate(problem_categories):
+        categories[i + 1] = category
+    print("Here are the list of existing problem types in the repository:")
+    for key, val in sorted(categories.items()):
+        print("{}: {}".format(key, val))
+    print("Enter any of the index from {} to {} "
+          "or 0 if the problem type is not listed".format(1, total_categories))
+    category_index = int(get_mandatory_field("Problem Type Index: "))
+    if category_index == 0:
+        category = get_mandatory_field("Problem Type: ")
+    else:
+        category = categories[category_index]
     username = input("Username (keep blank for " + USERNAME + "): ").strip()
     extension = input("Extension (keep blank for " + EXTENSION + "): ").strip()
     if username == '':
