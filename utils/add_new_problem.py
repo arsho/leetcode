@@ -29,7 +29,7 @@ def insert_new_problem(existing_problems, new_problem):
         problem = problem[1:-1].strip()
         fields = [field.strip() for field in problem.split("|")]
         data.append(fields)
-    if data.count(new_problem) > 0:
+    if data.count(new_problem) == 0:
         data.append(new_problem)
     # Sort by category and then problem number ascending
     data = sorted(data, key=lambda x: (x[1], int(x[0].split(".")[0][1:])))

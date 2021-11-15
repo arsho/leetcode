@@ -105,6 +105,7 @@ The following table contains the problems with solutions:
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Hash Table | [Solution](solutions/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number) |
 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Hash Table | [Solution](solutions/1512_Number_of_Good_Pairs) |
 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | Hash Table | [Solution](solutions/1539_Kth_Missing_Positive_Number) |
+| [2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | Hash Table | [Solution](solutions/2062_Count_Vowel_Substrings_of_a_String) |
 | [850. Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | Line Sweep | [Solution](solutions/850_Rectangle_Area_II) |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List | [Solution](solutions/21_Merge_Two_Sorted_Lists) |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Linked List | [Solution](solutions/83_Remove_Duplicates_from_Sorted_List) |
