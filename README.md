@@ -165,6 +165,8 @@ The following table contains the problems with solutions:
 | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | String | [Solution](solutions/2011_Final_Value_of_Variable_After_Performing_Operations) |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Tree | [Solution](solutions/94_Binary_Tree_Inorder_Traversal) |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Tree | [Solution](solutions/102_Binary_Tree_Level_Order_Traversal) |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Tree | [Solution](solutions/104_Maximum_Depth_of_Binary_Tree) |
+| [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Tree | [Solution](solutions/111_Minimum_Depth_of_Binary_Tree) |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Tree | [Solution](solutions/144_Binary_Tree_Preorder_Traversal) |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Tree | [Solution](solutions/145_Binary_Tree_Postorder_Traversal) |
 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Tree | [Solution](solutions/590_N-ary_Tree_Postorder_Traversal) |
