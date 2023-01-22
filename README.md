@@ -7,6 +7,7 @@ The following table contains the problems with solutions:
 | --- | --- | --- |
 | [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | Adhoc | [Solution](solutions/492_Construct_the_Rectangle) |
 | [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | Adhoc | [Solution](solutions/806_Number_of_Lines_To_Write_String) |
+| [2544. Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/) | Adhoc | [Solution](solutions/2544_Alternating_Digit_Sum) |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | Array | [Solution](solutions/48_Rotate_Image) |
 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Array | [Solution](solutions/66_Plus_One) |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Array | [Solution](solutions/189_Rotate_Array) |
@@ -140,6 +141,7 @@ The following table contains the problems with solutions:
 | [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Sort | [Solution](solutions/1122_Relative_Sort_Array) |
 | [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Sort | [Solution](solutions/1491_Average_Salary_Excluding_the_Minimum_and_Maximum_Salary) |
 | [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | Sort | [Solution](solutions/1528_Shuffle_String) |
+| [2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | Sort | [Solution](solutions/2545_Sort_the_Students_by_Their_Kth_Score) |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | [Solution](solutions/20_Valid_Parentheses) |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack | [Solution](solutions/155_Min_Stack) |
 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Stack | [Solution](solutions/1021_Remove_Outermost_Parentheses) |
@@ -163,6 +165,7 @@ The following table contains the problems with solutions:
 | [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | String | [Solution](solutions/1790_Check_if_One_String_Swap_Can_Make_Strings_Equal) |
 | [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | String | [Solution](solutions/1967_Number_of_Strings_That_Appear_as_Substrings_in_Word) |
 | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | String | [Solution](solutions/2011_Final_Value_of_Variable_After_Performing_Operations) |
+| [2546. Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | String | [Solution](solutions/2546_Apply_Bitwise_Operations_to_Make_Strings_Equal) |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Tree | [Solution](solutions/94_Binary_Tree_Inorder_Traversal) |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Tree | [Solution](solutions/102_Binary_Tree_Level_Order_Traversal) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Tree | [Solution](solutions/104_Maximum_Depth_of_Binary_Tree) |
@@ -174,6 +177,7 @@ The following table contains the problems with solutions:
 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Tree | [Solution](solutions/637_Average_of_Levels_in_Binary_Tree) |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Tree | [Solution](solutions/700_Search_in_a_Binary_Search_Tree) |
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Tree | [Solution](solutions/701_Insert_into_a_Binary_Search_Tree) |
+| [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Tree | [Solution](solutions/938_Range_Sum_of_BST) |
 | [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Tree | [Solution](solutions/965_Univalued_Binary_Tree) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers | [Solution](solutions/11_Container_With_Most_Water) |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Two Pointers | [Solution](solutions/26_Remove_Duplicates_from_Sorted_Array) |
