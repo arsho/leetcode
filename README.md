@@ -49,6 +49,7 @@ The following table contains the problems with solutions:
 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Array | [Solution](solutions/1752_Check_if_Array_Is_Sorted_and_Rotated) |
 | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Array | [Solution](solutions/1773_Count_Items_Matching_a_Rule) |
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Array | [Solution](solutions/1833_Maximum_Ice_Cream_Bars) |
+| [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Array | [Solution](solutions/2460_Apply_Operations_to_an_Array) |
 | [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | Backtracking | [Solution](solutions/1863_Sum_of_All_Subset_XOR_Totals) |
 | [275. H-Index II](https://leetcode.com/problems/h-index-ii/) | Binary Search | [Solution](solutions/275_H-Index_II) |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | [Solution](solutions/278_First_Bad_Version) |
@@ -127,6 +128,8 @@ The following table contains the problems with solutions:
 | [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Math | [Solution](solutions/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers) |
 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Math | [Solution](solutions/1323_Maximum_69_Number) |
 | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Math | [Solution](solutions/1523_Count_Odd_Numbers_in_an_Interval_Range) |
+| [2481. Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | Math | [Solution](solutions/2481_Minimum_Cuts_to_Divide_a_Circle) |
+| [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | Math | [Solution](solutions/2485_Find_the_Pivot_Integer) |
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue | [Solution](solutions/933_Number_of_Recent_Calls) |
 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | SQL | [Solution](solutions/176_Second_Highest_Salary) |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | SQL | [Solution](solutions/182_Duplicate_Emails) |
@@ -155,6 +158,7 @@ The following table contains the problems with solutions:
 | [1496. Path Crossing](https://leetcode.com/problems/path-crossing/) | String | [Solution](solutions/1496_Path_Crossing) |
 | [1525. Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | String | [Solution](solutions/1525_Number_of_Good_Ways_to_Split_a_String) |
 | [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | String | [Solution](solutions/1624_Largest_Substring_Between_Two_Equal_Characters) |
+| [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | String | [Solution](solutions/1704_Determine_if_String_Halves_Are_Alike) |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | String | [Solution](solutions/1768_Merge_Strings_Alternately) |
 | [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | String | [Solution](solutions/1790_Check_if_One_String_Swap_Can_Make_Strings_Equal) |
 | [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | String | [Solution](solutions/1967_Number_of_Strings_That_Appear_as_Substrings_in_Word) |
